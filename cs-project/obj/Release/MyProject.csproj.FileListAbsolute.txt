@@ -1,6 +1,0 @@
-C:\Users\olivierk\Documents\Training\msbuild-scan\MyProject\bin\Release\MyProject.exe.config
-C:\Users\olivierk\Documents\Training\msbuild-scan\MyProject\bin\Release\MyProject.exe
-C:\Users\olivierk\Documents\Training\msbuild-scan\MyProject\bin\Release\MyProject.pdb
-C:\Users\olivierk\Documents\Training\msbuild-scan\MyProject\obj\Release\MyProject.csprojResolveAssemblyReference.cache
-C:\Users\olivierk\Documents\Training\msbuild-scan\MyProject\obj\Release\MyProject.exe
-C:\Users\olivierk\Documents\Training\msbuild-scan\MyProject\obj\Release\MyProject.pdb
